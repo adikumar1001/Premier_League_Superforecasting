@@ -2,7 +2,7 @@
 
 > A structured, evidence-based forecast that combines historical performance, current form, tactical transition risk, injury depth, rival response, and transfer-window scenarios—culminating in a **final probability estimate: ~32%** that Liverpool win the 2024/25 EPL (Sherman Kent scale: “probably not”).
 
-_This README summarizes the analysis documented in the project report (PDF). Source: :contentReference[oaicite:0]{index=0}_
+_This README summarizes the analysis documented in the project report (PDF). 
 
 ---
 
@@ -19,7 +19,7 @@ Estimate the probability that **Liverpool FC** win the **2024/25 Premier League*
 - **Update: rivals’ improvement + counter-tactics:** ~29%  
 - **Transfer window (strategic signings) scenario:** up to **~32% final**
 
-> Interpretation: **“Probably not”** (Sherman Kent), but still meaningful odds—success hinges on smooth tactical adaptation, injury management, and targeted reinforcements. :contentReference[oaicite:1]{index=1}
+> Interpretation: **“Probably not”** (Sherman Kent), but still meaningful odds—success hinges on smooth tactical adaptation, injury management, and targeted reinforcements. 
 
 ---
 
@@ -34,6 +34,6 @@ This forecast follows a **stepwise, judgmental-Bayesian** update:
    - January transfer-window strategy  
 3. **Synthesize** into a final calibrated probability and verbal label.
 
-Each update is documented with rationale and supporting sources in the project PDF. :contentReference[oaicite:2]{index=2}
+Each update is documented with rationale and supporting sources in the project PDF. 
 
 ---
